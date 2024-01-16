@@ -1,0 +1,58 @@
+_id,category,category_slug,name,slug,page_title,page_content,status,createdAt,updatedAt
+653628316f430df4b33f1b5b,Hire On,hire-on,Car Rental,car-rental,Top Car Rental Services,"Instead of purchasing an item or service outright, individuals or businesses can rent or lease it for a specified period in (City). Our platform offers a vast array of services that includes Rental cars, Motorcycles, Bicycles, and more in (City). Real estate properties, such as apartments, houses, vacation homes, or commercial spaces. Businesses that provide items for parties and events, such as tents, tables, chairs, linens, sound systems, and decorations which are commonly used for weddings, corporate events, and social gatherings. Moreover, it includes renting tools, machinery, construction equipment, audio-visual equipment, camping gear, and more.",Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b5c,Hire On,hire-on,Bike Rental,bike-rental,Top Bike Rental Service Provider,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b5d,Hire On,hire-on,AC On Rent,ac-on-rent,Ac Rental Service,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b5e,Hire On,hire-on,Furniture On Rent,furniture-on-rent,Furniture Rental ,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b5f,Hire On,hire-on,Refrigerator On Rent,refrigerator-on-rent,Refrigerator On Rent,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b60,Hire On,hire-on,LED TV On Rent,led-tv-on-rent,LED TV On Rent,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b61,Daily Need,daily-need,Plumber,plumber,Top Plumbers Services,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b62,Daily Need,daily-need,Electricians,electricians,Expert Electricians,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b63,Daily Need,daily-need,Carpenters,carpenters,Carpenter Service,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b64,Daily Need,daily-need,Pest Control,pest-control,Best Pest Control Services,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b65,Daily Need,daily-need,Laundry,laundry,Best Laundry & Dry Cleaning Service,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b66,Personal Care,personal-care,Beauty Parlour,beauty-parlour,Top Beauty Parlours,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b67,Personal Care,personal-care,Salons,salons,Best Luxury Salon,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b68,Medical,medical,Doctors,doctors,Best Doctors,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b69,Medical,medical,Hospitals,hospitals,Hospitals,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b6a,Medical,medical,Chemists,chemists,Chemists,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b6b,Education,medical,Schools,schools,Top Schools,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b6c,Education,medical,Colleges,colleges,Top Colleges,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b6d,Education,medical,Universities,universities,Top Universities,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b6e,House Hold,hose-hold,Cooks Agency,Cooks,Best Cook Provider Aggency,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b6f,House Hold,hose-hold,Maids Agency,maids,Best Maid Provider Aggency,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b70,Public Services,public-services,Banks,banks,Banks in Gurgaon,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b71,Public Services,public-services,Police Stations,police-stations,Police Station ,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b72,Public Services,public-services,Railway Station,railway-station,Railway Station,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b73,Public Services,public-services,Bus Stop,bus-stop,Bus Stop,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b74,Public Services,public-services,Post Office,post-office,Post Office,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b75,Marriage,marriage,Banquet Halls,banquet-halls,Banquet Halls,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b76,Marriage,marriage,Photographers,photographers,Photographers,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b77,Marriage,marriage,DJ Sound,dj-sound,DJ Sound,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b78,Sports Hobbies,sports-hobbies,Dance Coaching Classes,dance-coaching-classes,Dance Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b79,Sports Hobbies,sports-hobbies,Music Coaching Classes,music-coaching-classes,Music Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b7a,Sports Hobbies,sports-hobbies,Yoga Coaching Classes,yoga-coaching-classes,Yoga Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b7b,Sports Hobbies,sports-hobbies,Tennis Coaching Classes,tennis-coaching-classes,Tennis Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b7c,Sports Hobbies,sports-hobbies,Cricket Coaching Classes,cricket-coaching-classes,Cricket Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b7d,Sports Hobbies,sports-hobbies,Swimming Coaching Classes,swimming-coaching-classes,Swimming Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b7e,Sports Hobbies,sports-hobbies,Badminton Coaching Classes,badminton-coaching-classes,Badminton Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b7f,Sports Hobbies,sports-hobbies,Football Coaching Classes,football-coaching-classes,Football Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b80,Sports Hobbies,sports-hobbies,Shooting Coaching Classes,shooting-coaching-classes,Shooting Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b81,Sports Hobbies,sports-hobbies,Archery Coaching Classes,archery-coaching-classes,Archery Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b82,Sports Hobbies,sports-hobbies,Skating Coaching Classes,skating-coaching-classes,Skating Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b83,Sports Hobbies,sports-hobbies,Snooker Coaching Classes,snooker-coaching-classes,Snooker Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b84,Sports Hobbies,sports-hobbies,Hockey Coaching Classes,hockey-coaching-classes,Hockey Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b85,Sports Hobbies,sports-hobbies,Baseball Coaching Classes,baseball-coaching-classes,Baseball Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b86,Sports Hobbies,sports-hobbies,Golf Coaching Classes,golf-coaching-classes,Golf Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b87,Sports Hobbies,sports-hobbies,Basket Ball Coaching Classes,basket-ball-coaching-classes,Basket Ball Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b88,Sports Hobbies,sports-hobbies,Volley Ball Coaching Classes,volley-ball-coaching-classes,Volley Ball Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b89,Sports Hobbies,sports-hobbies,Table Tennis Coaching Classes,table-tennis-coaching-classes,Table Tennis Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b8a,Sports Hobbies,sports-hobbies,Boxing Coaching Classes,boxing-coaching-classes,Boxing Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b8b,Sports Hobbies,sports-hobbies,Gymnastic Coaching Classes,gymnastic-coaching-classes,Gymnastic Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b8c,Sports Hobbies,sports-hobbies,Karate Coaching Classes,karate-coaching-classes,Karate Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b8d,Sports Hobbies,sports-hobbies,Skating Coaching Classes,skating-coaching-classes,Skating Coaching Classes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b8e,Internet,internet,Internet Service Provider,internet-service-provider,Internet Service Provider,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b8f,Internet,internet,Cyber Cafes,cyber-cafes,Cyber Cafes,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b90,Restaurant,restaurant,Afghani Restaurants,afghani-restaurants,Afghani Restaurants,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b91,Restaurant,restaurant,Chinese Restaurants,chinese-restaurants,Chinese Restaurants,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b92,Restaurant,restaurant,South Indian Restaurants,south-indian-restaurants,South Indian Restaurants,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z
+653628316f430df4b33f1b93,Restaurants,restaurant,North Indian Restaurants,north-indian-restaurants,North Indian Restaurants,Top Car Rental Services,Active,2023-10-07T05:17:59.247Z,2023-10-09T09:44:55.930Z

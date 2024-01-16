@@ -1,0 +1,7 @@
+_id,name,phone,email,subcategory,city,query,status,createdAt,updatedAt,__v
+653627f16f430df4b33f1a13,Aarif Ali Chauhan,8005794205,ali.aliaarif@gmail.com,Car Rental,Sadulpur,gurugram/car-rental-in-gurugram,Active,2023-08-14T17:54:22.951Z,2023-09-19T15:23:13.116Z,
+6537df709233c89b7e2e64d0,Shikha,9873575279,Shikha koirala 123@gmail.com,carpenters,gurgaon,carpenters-in-gurgaon,Pending,2023-10-24T15:14:56.699Z,2023-10-24T15:14:56.699Z,0
+65381cf99233c89b7e2e6a98,Test,Test,Test,car-rental,gurgaon,car-rental-in-gurgaon,Pending,2023-10-24T19:37:29.074Z,2023-10-24T19:37:29.074Z,0
+653a9dda5330eb03098d92c8,Shikha,9289588590,Shikha.koirala123@gmail.com,car-rental,gurugram,car-rental-in-gurugram,Pending,2023-10-26T17:11:54.126Z,2023-10-26T17:11:54.126Z,0
+653a9e645330eb03098d9323,She kha,9873585279,Shikha koirala 123@gnail.com,doctors,gurugram,doctors-in-gurugram,Pending,2023-10-26T17:14:12.696Z,2023-10-26T17:14:12.696Z,0
+653b47865330eb03098da07f,73(2),Test,,dance-coaching-classes,gurgaon,dance-coaching-classes-in-gurgaon,Pending,2023-10-27T05:15:50.514Z,2023-10-27T05:15:50.514Z,0

@@ -1,0 +1,6 @@
+_id,title,slug,content,page_title,pege_content,status,createdAt,updatedAt
+6536280f6f430df4b33f1b17,About,about,Dummy Content for About Page,Easetrail | About,Dummy Meta Content for About Page,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+6536280f6f430df4b33f1b18,Contact,contact,Dummy Content for Contact Page,Easetrail | Contact,Dummy Meta Content for Contact Page,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+6536280f6f430df4b33f1b19,Terms,terms,Dummy Content for Terms Page,Easetrail | Terms,Dummy Meta Content for Terms Page,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+6536280f6f430df4b33f1b1a,Privacy,privacy,Dummy Content for Privacy Page,Easetrail | Privacy,Dummy Meta Content for Privacy Page,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+6536280f6f430df4b33f1b1b,Teams,teams,Dummy Content for Teams Page,Easetrail | Teams,Dummy Meta Content for Teams Page,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z

@@ -1,0 +1,15 @@
+services:
+  nuxtjs-app:
+    image: easetrail/app:latest # Replace with your Nuxt.js app's image
+    ports:
+      - "3000:3000"
+    volumes:
+      - uploads:/app/public/businesses # Adjust the path as needed
+    environment:
+      - HOST=0.0.0.0
+      - NODE_ENV=production # Set your environment variables here
+    # Add other configurations like links to database if required
+
+volumes:
+  uploads:
+    driver: local

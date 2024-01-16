@@ -1,0 +1,19 @@
+FROM node:20.10.0-slim AS development
+
+# Create app directory
+WORKDIR /usr/src/app
+
+COPY package*.json ./
+
+RUN npm cache clean --force
+
+RUN npm install --verbose
+
+# Bundle app source
+COPY . .
+
+# Build your app
+RUN npm run build
+
+# EXPOSE 3000
+# CMD [ "npm", "dev" ]

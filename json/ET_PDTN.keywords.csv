@@ -1,0 +1,66 @@
+_id,subcategory,subcategory_slug,name,slug,status,createdAt,updatedAt
+653627ea6f430df4b33f19d1,Hotel,hotel,2 Star Hotel,2-star-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19d2,Hotel,hotel,3 Star Hotel,3-star-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19d3,Hotel,hotel,5 Star Hotel,5-star-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19d4,Hotel,hotel,7 Star Hotel,7-star-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19d5,Hotel,hotel,Luxury Hotel,luxury-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19d6,Hotel,hotel,Expensive Hotel,expensive-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19d7,Hotel,hotel,Business Hotels,business-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19d8,Hotel,hotel,Luxury Business Hotels,luxury-business-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19d9,Hotel,hotel,Luxury Club Hotel,luxury-club-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19da,Hotel,hotel,Cheap Luxury Business Hotels,cheap-luxury-business-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19db,Hotel,hotel,Conference Hotels,conference-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19dc,Hotel,hotel,Conference Hall,conference-hall,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19dd,Hotel,hotel,Castle Hotel,castle-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19de,Hotel,hotel,Heritage Hotels,heritage-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19df,Hotel,hotel,Heritage Resort,heritage-resort,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19e0,Hotel,hotel,Hotels With Nightclubs,hotels-with-nightclubs,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19e1,Hotel,hotel,Hotels With Bar,hotels-with-bar,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19e2,Hotel,hotel,Hotel Bars,hotel-bars,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19e3,Hotel,hotel,Beach Hotels,beach-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19e4,Hotel,hotel,Beach Side Hotels,beach-side-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19e5,Hotel,hotel,Boutique Hotel,boutique-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19e6,Hotel,hotel,Resort Hotels,resort-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19e7,Hotel,hotel,Casino Hotels,casino-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19e8,Hotel,hotel,Honeymoon Hotels,honeymoon-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19e9,Hotel,hotel,Mountain Hotels,mountain-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19ea,Hotel,hotel,Hotels With Private Beach,hotels-with-private-beach,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19eb,Hotel,hotel,Hotels With Swimming Pool,hotels-with-swimming-pool,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19ec,Hotel,hotel,Hotel With Conference Hall,hotel-with-conference-hall,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19ed,Hotel,hotel,Hotels With Bathtub,hotels-with-bathtub,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19ee,Hotel,hotel,Hotels With Parking,hotels-with-parking,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19ef,Hotel,hotel,Hotel With Food,hotel-with-food,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19f0,Hotel,hotel,Hotel With Restaurant,hotel-with-restaurant,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19f1,Hotel,hotel,Hotel With Gym,hotel-with-gym,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19f2,Hotel,hotel,Hotels With Kitchen,hotels-with-kitchen,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19f3,Hotel,hotel,Hotel With Fitness Center,hotel-with-fitness-center,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19f4,Hotel,hotel,Hotel With Theater,hotel-with-theater,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19f5,Hotel,hotel,Hotel For Group Travelers,hotel-for-group-travelers,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19f6,Hotel,hotel,Hotel With Spa,hotel-with-spa,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19f7,Hotel,hotel,Hotel For Business Travelers,hotel-for-business-travelers,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19f8,Hotel,hotel,Hotel With Laundry Services,hotel-with-laundry-services,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19f9,Hotel,hotel,Early Check In Hotels,early-check-in-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19fa,Hotel,hotel,Airport Hotels,airport-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19fb,Hotel,hotel,Hotels Near Domestic Airport,hotels-near-domestic-airport,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19fc,Hotel,hotel,Hotels Near International Airport,hotels-near-international-airport,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19fd,Hotel,hotel,Hotel With Airport Shuttle,hotel-with-airport-shuttle,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19fe,Hotel,hotel,All Inclusive Hotel,all-inclusive-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f19ff,Hotel,hotel,All Inclusive Resorts,all-inclusive-resorts,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a00,Hotel,hotel,Spa Resorts,spa-resorts,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a01,Hotel,hotel,Independent Hotel,independent-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a02,Hotel,hotel,Motels,motels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a03,Hotel,hotel,Homestay,homestay,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a04,Hotel,hotel,Hot Spring Hotel,hot-spring-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a05,Hotel,hotel,Budget Hotel,budget-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a06,Hotel,hotel,Family Hotel,family-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a07,Hotel,hotel,Family Friendly Hotels,family-friendly-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a08,Hotel,hotel,Couple Friendly Hotel,couple-friendly-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a09,Hotel,hotel,Pet Friendly Hotel,pet-friendly-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a0a,Hotel,hotel,Eco Friendly Hotels,eco-friendly-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a0b,Hotel,hotel,Extended Stay Hotel,extended-stay-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a0c,Hotel,hotel,City Hotels,city-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a0d,Hotel,hotel,Capsule Hotel,capsule-hotel,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a0e,Hotel,hotel,Coliving Hotels,coliving-hotels,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a0f,Hotel,hotel,Hotel For Solo Travelers,hotel-for-solo-travelers,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a10,Hotel,hotel,Hotels For Women,hotels-for-women,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653627ea6f430df4b33f1a11,Hotel,hotel,Hotels For Working Women,hotels-for-working-women,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z

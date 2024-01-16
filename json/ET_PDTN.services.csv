@@ -1,0 +1,19 @@
+_id,subcategory,subcategory_slug,name,slug,status,createdAt,updatedAt
+653628206f430df4b33f1b23,Salons,salons,Simple Haircut,simple-haircut,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b24,Salons,salons,Stylish Haircut,stylish-haircut,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b25,Salons,salons,Hair Styling,hair-styling,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b26,Salons,salons,Hair Smoothening,hair-smoothening,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b27,Salons,salons,Global Colour,global-colour,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b28,Salons,salons,Hair Tongs,hair-tongs,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b29,Salons,salons,Keratin,keratin,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b2a,Salons,salons,Hair Blow Dry & Wash,hair-blow-dry-wash,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b2b,Salons,salons,Hair Botox,hair-botox,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b2c,Salons,salons,Hair Extensions,hair-extensions,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b2d,Salons,salons,Nail Art,nail-art,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b2e,Salons,salons,Nail Extension,nail-extension,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b2f,Salons,salons,Pedicure Manicure,pedicure-manicure,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b30,Salons,salons,Body Polishing,body-polishing,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b31,Salons,salons,Facials,facials,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b32,Salons,salons,Oil Hair Massage,oil-hair-massage,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b33,Salons,salons,Eyebrow Beautician,eyebrow-beautician,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+653628206f430df4b33f1b34,Salons,salons,WAX,wax,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
