@@ -25,7 +25,7 @@ onMounted(() => {
     // showMainMenu.value = true
     burger.classList.toggle('is-active');
     menu.classList.toggle('is-active');
-  });  
+  });
 
   const burger2 = document.querySelector('#navbarBurger2');
   const menu2 = document.querySelector('#navbarMenu2');
@@ -35,19 +35,19 @@ onMounted(() => {
     // showLocationMenu.value = true
     burger2.classList.toggle('is-active');
     menu2.classList.toggle('is-active');
-  });  
+  });
 
 })
 
 const props = defineProps({
-    stateName: String,
-    firstParam:Object
+  stateName: String,
+  firstParam: Object
 })
 
 const menuActive = ref(false)
 
 const toggleMenu = () => {
-    menuActive.value = !menuActive.value;
+  menuActive.value = !menuActive.value;
 }
 
 const authStore = useAuthStore();
@@ -70,47 +70,32 @@ const setModuleAndAction = (mod, act, edit) => {
 
 </script>
 <template>
-
-<header>
+  <header>
     <nav class="navbar" role="navigation" aria-label="main navigation" style="box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.1)">
 
       <div class="navbar-brand">
-        <a
-          role="button"
-          class="navbar-item navbar-burger burger is-hidden-tablet"
-          id="navbarBurger"
+        <a role="button" class="navbar-item navbar-burger burger is-hidden-tablet" id="navbarBurger"
           style="position:relative; left:-10px;"
-          @click="showLocationMenu = !showLocationMenu, showMainMenu = !showMainMenu"
-        >
+          @click="showLocationMenu = !showLocationMenu, showMainMenu = !showMainMenu">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
         </a>
         <a @click="navigateTo('/')" href="/" class="navbar-item" style="position:relative; left:-20px;">
-          <img
-            src="/img/brand/logo.png"
-            alt="Easetrail"
-            width="112"
-            height="28"
-          />
-        </a>  
+          <img src="/img/brand/logo.png" alt="Easetrail" width="112" height="28" />
+        </a>
 
 
-        <a
-        aria-label="menu"
-          aria-expanded="false"
-          class="navbar-item is-hidden-desktop is-hidden-tablet"
-          id="navbarBurger2"
-          @click="showLocationMenu = !showLocationMenu, showMainMenu = !showMainMenu"
-        >
-        {{ city }}
+        <a aria-label="menu" aria-expanded="false" class="navbar-item is-hidden-desktop is-hidden-tablet"
+          id="navbarBurger2" @click="showLocationMenu = !showLocationMenu, showMainMenu = !showMainMenu">
+          {{ city }}
           <span class="icon">
             <i class="fa fa-map-marker" aria-hidden="true"></i>
           </span>
         </a>
 
       </div>
-    <!-- <div class="navbar-menu" id="navbarMenu">
+      <!-- <div class="navbar-menu" id="navbarMenu">
       <div class="navbar-end">
         <a class="navbar-item" href="#">Home</a>
         <a class="navbar-item" href="#">Services</a>
@@ -130,57 +115,42 @@ const setModuleAndAction = (mod, act, edit) => {
         </div>
       </div>
     </div> -->
-    <div class="navbar-menu" id="navbarMenu" >
+      <div class="navbar-menu" id="navbarMenu">
         <div class="navbar-start" v-if="!authStore.isAuthenticated">
-          <nuxt-link to="/login" class="navbar-item" >Login</nuxt-link>
+          <nuxt-link to="/login" class="navbar-item">Login</nuxt-link>
         </div>
         <div class="navbar-start" v-else>
-          <nuxt-link
-                to="/dashboard"
-                class="navbar-item"
-                @click="
-                  setModuleAndAction('dashboard', 'grid', false),
-                    setDynamicTitle('Dashboard')
-                "
-                >Dashboard</nuxt-link
-              >
-              <nuxt-link
-                to="/dashboard"
-                class="navbar-item"
-                @click="
-                  setModuleAndAction('profile', 'add-edit', true),
-                    setDynamicTitle('Profile')
-                "
-                >Profile</nuxt-link
-              >
-              <nuxt-link
-                to="/dashboard"
-                class="navbar-item"
-                @click="
-                  setModuleAndAction('businesses', 'add-edit', false),
-                    setDynamicTitle('Add Business')
-                "
-                >My Businesses</nuxt-link
-              >
-              <nuxt-link to="javascript:;" class="navbar-item" @click="logout"
-                >Logout</nuxt-link
-              >
+          <nuxt-link to="/dashboard" class="navbar-item" @click="
+            setModuleAndAction('dashboard', 'grid', false),
+            setDynamicTitle('Dashboard')
+            ">Dashboard</nuxt-link>
+          <nuxt-link to="/dashboard" class="navbar-item" @click="
+            setModuleAndAction('profile', 'add-edit', true),
+            setDynamicTitle('Profile')
+            ">Profile</nuxt-link>
+          <nuxt-link to="/dashboard" class="navbar-item" @click="
+            setModuleAndAction('businesses', 'add-edit', false),
+            setDynamicTitle('Add Business')
+            ">My Businesses</nuxt-link>
+          <nuxt-link to="javascript:;" class="navbar-item" @click="logout">Logout</nuxt-link>
         </div>
       </div>
 
       <div class="navbar-menu" id="navbarMenu2">
         <div class="navbar-end">
-          <div class="mt-1 navbar-item has-dropdown is-hoverable" v-if="props.firstParam.currentRoute.value.name != 'dashboard'">
+          <div class="mt-1 navbar-item has-dropdown is-hoverable"
+            v-if="props.firstParam.currentRoute.value.name != 'dashboard'">
             <Search />
           </div>
         </div>
       </div>
-     
 
-      
+
+
       <div class="navbar-menu">
         <div class="navbar-end">
-          <div class="mt-1 navbar-item has-dropdown is-hoverable is-hidden-touch" v-if="props.firstParam.currentRoute.value.name != 'dashboard'">
+          <div class="mt-1 navbar-item has-dropdown is-hoverable is-hidden-touch"
+            v-if="props.firstParam.currentRoute.value.name != 'dashboard'">
             <Search />
           </div>
           <div class="navbar-item" v-if="!authStore.isAuthenticated">
@@ -193,43 +163,25 @@ const setModuleAndAction = (mod, act, edit) => {
               </figure>
             </a>
             <div class="navbar-dropdown">
-              <nuxt-link
-                to="/dashboard"
-                class="navbar-item"
-                @click="
-                  setModuleAndAction('dashboard', 'grid', false),
-                    setDynamicTitle('Dashboard')
-                "
-                >Dashboard</nuxt-link
-              >
-              <nuxt-link
-                to="/dashboard"
-                class="navbar-item"
-                @click="
-                  setModuleAndAction('profile', 'add-edit', true),
-                    setDynamicTitle('Profile')
-                "
-                >Profile</nuxt-link
-              >
-              <nuxt-link
-                to="/dashboard"
-                class="navbar-item"
-                @click="
-                  setModuleAndAction('businesses', 'add-edit', false),
-                    setDynamicTitle('Add Business')
-                "
-                >My Businesses</nuxt-link
-              >
-              <nuxt-link to="javascript:;" class="navbar-item" @click="logout"
-                >Logout</nuxt-link
-              >
+              <nuxt-link to="/dashboard" class="navbar-item" @click="
+                setModuleAndAction('dashboard', 'grid', false),
+                setDynamicTitle('Dashboard')
+                ">Dashboard</nuxt-link>
+              <nuxt-link to="/dashboard" class="navbar-item" @click="
+                setModuleAndAction('profile', 'add-edit', true),
+                setDynamicTitle('Profile')
+                ">Profile</nuxt-link>
+              <nuxt-link to="/dashboard" class="navbar-item" @click="
+                setModuleAndAction('businesses', 'add-edit', false),
+                setDynamicTitle('Add Business')
+                ">My Businesses</nuxt-link>
+              <nuxt-link to="javascript:;" class="navbar-item" @click="logout">Logout</nuxt-link>
             </div>
           </div>
         </div>
       </div>
     </nav>
   </header>
-
 </template>
 <style>
 .navbar.is-fixed-top {
@@ -240,27 +192,27 @@ const setModuleAndAction = (mod, act, edit) => {
 }
 
 .navbar {
-    justify-content: space-between;
-    align-items: center;
-    background-color: #fff;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
 }
 
 .navbar-burger {
-    margin-left: 10px;
+  margin-left: 10px;
 }
 
 .navbar-brand img {
-    max-width: 112px;
-    height: auto;
-    padding-left: 20px;
+  max-width: 112px;
+  height: auto;
+  padding-left: 20px;
 }
 
 .navbar-item.is-hidden-desktop.is-hidden-tablet {
-    margin-left: auto;
+  margin-left: auto;
 }
 
 .navbar-burger.burger {
-    right: 0px !important;
+  right: 0px !important;
 }
 
 /* Initially hide the menu */
@@ -291,14 +243,14 @@ const setModuleAndAction = (mod, act, edit) => {
 }
 
 @media screen and (max-width: 768px) {
-.navbar-brand img {
+  .navbar-brand img {
     margin-left: -15px;
-}
+  }
 
-.navbar-item .icon:only-child, .navbar-link .icon:only-child {
-   margin-left: 0.6rem;
-}
+  .navbar-item .icon:only-child,
+  .navbar-link .icon:only-child {
+    margin-left: 0.6rem;
+  }
 
 }
-
 </style>

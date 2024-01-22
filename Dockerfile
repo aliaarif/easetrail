@@ -1,23 +1,20 @@
-# Step 1: Use an official Node.js runtime as a parent image
+# Use the official Node.js 20 image as a parent image
 FROM node:20.10.0-slim AS development
 
-# Step 2: Set the working directory in the container
+# Set the working directory
 WORKDIR /usr/src/app
 
-# Step 3: Copy the package.json and package-lock.json (or yarn.lock)
+# Copy package.json and package-lock.json (or yarn.lock if you use Yarn)
 COPY package*.json ./
 
-# Step 4: Install your app's dependencies
+# Install dependencies
 RUN npm install
 
-# Step 5: Bundle your app's source code inside the Docker image
+# Copy the rest of your app's source code
 COPY . .
 
-# Step 6: Build your Nuxt.js application
-RUN npm run build
-
-# Step 7: Define the network port that this container will listen on at runtime
+# Expose the port your app runs on
 EXPOSE 3000
 
-# Step 8: Define the command to run your app
-CMD [ "npm", "dev" ]
+# Start the app
+CMD ["npm", "run", "dev"]
